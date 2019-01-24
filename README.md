@@ -15,8 +15,6 @@ Egenskap: För att komma ihåg saker kan man behöva en lista.
     Givet att kattmaten är slut
     När Thomas skriver upp köp kattmat på sin att göra-lista
     Så ska det stå köp kattmat på hans att göra-listan
-
-    
 ```
 
 If you don't understand Swedish, the example above may not make much sense to you. It is in Swedish. 
